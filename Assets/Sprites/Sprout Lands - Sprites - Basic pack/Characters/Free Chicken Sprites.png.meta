@@ -53,7 +53,11 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
+<<<<<<< HEAD:Assets/Sprites/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Characters/Free Chicken Sprites.png.meta
+    aniso: 7
+=======
     aniso: 1
+>>>>>>> main:Assets/Sprites/Sprout Lands - Sprites - Basic pack/Characters/Free Chicken Sprites.png.meta
     mipBias: 0
     wrapU: 1
     wrapV: 1
