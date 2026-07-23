@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 204a914aeb2dd5b4198a42c3494f4ef5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4471056761989256339
+    second: flies_01_0
+  - first:
+      213: 76261516104665083
+    second: flies_01_1
+  - first:
+      213: 9149893552865559914
+    second: flies_01_2
+  - first:
+      213: 7827336036706675006
+    second: flies_01_3
+  - first:
+      213: -5493557735565403682
+    second: flies_01_4
+  - first:
+      213: 6668249441816080638
+    second: flies_01_5
+  - first:
+      213: 3219273202281330152
+    second: flies_01_6
+  - first:
+      213: -5473146342717813727
+    second: flies_01_7
+  - first:
+      213: -6962337467585362564
+    second: flies_01_8
+  - first:
+      213: -4136631072914946935
+    second: flies_01_9
+  - first:
+      213: -249022183027832874
+    second: flies_01_10
+  - first:
+      213: 1689591984796151447
+    second: flies_01_11
+  - first:
+      213: 3625881729194397048
+    second: flies_01_12
+  - first:
+      213: -3320609665876406597
+    second: flies_01_13
+  - first:
+      213: -563158681830067663
+    second: flies_01_14
+  - first:
+      213: -3850457084124446094
+    second: flies_01_15
+  - first:
+      213: 5262429217101195044
+    second: flies_01_16
+  - first:
+      213: -5165451027861218728
+    second: flies_01_17
+  - first:
+      213: 4798727613524961280
+    second: flies_01_18
+  - first:
+      213: -6673408354105819540
+    second: flies_01_19
+  - first:
+      213: 5917133660669678952
+    second: flies_01_20
+  - first:
+      213: 8950147137897831525
+    second: flies_01_21
+  - first:
+      213: -4481581431113094520
+    second: flies_01_22
+  - first:
+      213: -8883381077905570691
+    second: flies_01_23
+  - first:
+      213: 1828226773335658289
+    second: flies_01_24
+  - first:
+      213: 6337655797223676731
+    second: flies_01_25
+  - first:
+      213: -3744039281488717714
+    second: flies_01_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flies_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3945af4bf626c0e30800000000000000
+      internalID: 4471056761989256339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf78371e17fee0100800000000000000
+      internalID: 76261516104665083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65403745b3fafe70800000000000000
+      internalID: 9149893552865559914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39e38587a840ac60800000000000000
+      internalID: 7827336036706675006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 10
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9568a7856f2c3b0800000000000000
+      internalID: -5493557735565403682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0f42599816a8c50800000000000000
+      internalID: 6668249441816080638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5b9e8cbe72dac20800000000000000
+      internalID: 3219273202281330152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c8396366a7b04b0800000000000000
+      internalID: -5473146342717813727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c758e2616fec06f90800000000000000
+      internalID: -6962337467585362564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 11
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984cf0cb4fbb796c0800000000000000
+      internalID: -4136631072914946935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d70f67d4ab4b8cf0800000000000000
+      internalID: -249022183027832874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e2f1555f2a27710800000000000000
+      internalID: 1689591984796151447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 10
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d0632d838b15230800000000000000
+      internalID: 3625881729194397048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe45bb2a13dae1d0800000000000000
+      internalID: -3320609665876406597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 10
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1327751a9224f28f0800000000000000
+      internalID: -563158681830067663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27240edbead609ac0800000000000000
+      internalID: -3850457084124446094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42724fccd77e70940800000000000000
+      internalID: 5262429217101195044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ad7ab68a1a058b0800000000000000
+      internalID: -5165451027861218728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008630af651889240800000000000000
+      internalID: 4798727613524961280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ef56c857a4363a0800000000000000
+      internalID: -6673408354105819540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86519bcc6b1ed1250800000000000000
+      internalID: 5917133660669678952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c11e9e66f453c70800000000000000
+      internalID: 8950147137897831525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a648ece693ec1c0800000000000000
+      internalID: -4481581431113094520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74030fc9f3e7b480800000000000000
+      internalID: -8883381077905570691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fc781609a2f5910800000000000000
+      internalID: 1828226773335658289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b56368e50e3f750800000000000000
+      internalID: 6337655797223676731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flies_01_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6891c93c108a0cc0800000000000000
+      internalID: -3744039281488717714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flies_01_0: 4471056761989256339
+      flies_01_1: 76261516104665083
+      flies_01_10: -249022183027832874
+      flies_01_11: 1689591984796151447
+      flies_01_12: 3625881729194397048
+      flies_01_13: -3320609665876406597
+      flies_01_14: -563158681830067663
+      flies_01_15: -3850457084124446094
+      flies_01_16: 5262429217101195044
+      flies_01_17: -5165451027861218728
+      flies_01_18: 4798727613524961280
+      flies_01_19: -6673408354105819540
+      flies_01_2: 9149893552865559914
+      flies_01_20: 5917133660669678952
+      flies_01_21: 8950147137897831525
+      flies_01_22: -4481581431113094520
+      flies_01_23: -8883381077905570691
+      flies_01_24: 1828226773335658289
+      flies_01_25: 6337655797223676731
+      flies_01_26: -3744039281488717714
+      flies_01_3: 7827336036706675006
+      flies_01_4: -5493557735565403682
+      flies_01_5: 6668249441816080638
+      flies_01_6: 3219273202281330152
+      flies_01_7: -5473146342717813727
+      flies_01_8: -6962337467585362564
+      flies_01_9: -4136631072914946935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
