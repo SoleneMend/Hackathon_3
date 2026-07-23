@@ -1,0 +1,26 @@
+Chicken Sprite Order:
+
+1. Idle - 4 frames
+2. Walk - 5 frames
+3. Jumping - 10 Frames containing
+[
+ 4. Crouch - 2 frames
+ 5. Jump - 3 frames
+ 6. Fall - 2 frames
+ 7. Land - 2 frames
+]
+8. Flying - 11 frames containing
+[
+ 9. Crouch - 2 frames
+ 10. Fly - 4 frames
+ 11. Fall - 2 frames
+ 12. Land - 2 frames
+]
+13. Fall Asleep - 4 frames
+14. Sleeping - 4 frames
+15. Wake up - 4 frames
+16. Dash - 3 frames
+17. Slash - 6 frames
+18. Hit - 3 frames
+19. Death - 7 frames
+20. Spawn - 3 frames

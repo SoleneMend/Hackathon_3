@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 1aa25f9e2da4b294f907c0797a39cb06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 799210272432568914
+    second: BlockyChickenSpriteSheet_0
+  - first:
+      213: -6773987881526658875
+    second: BlockyChickenSpriteSheet_1
+  - first:
+      213: 2368098246107177721
+    second: BlockyChickenSpriteSheet_2
+  - first:
+      213: -2813924235019937100
+    second: BlockyChickenSpriteSheet_3
+  - first:
+      213: -8799470440345412284
+    second: BlockyChickenSpriteSheet_4
+  - first:
+      213: 2123732862742161326
+    second: BlockyChickenSpriteSheet_5
+  - first:
+      213: 415771249728028709
+    second: BlockyChickenSpriteSheet_6
+  - first:
+      213: -6792400915649260615
+    second: BlockyChickenSpriteSheet_7
+  - first:
+      213: -1346790772599025735
+    second: BlockyChickenSpriteSheet_8
+  - first:
+      213: 2264462282669508717
+    second: BlockyChickenSpriteSheet_9
+  - first:
+      213: -353746133600532964
+    second: BlockyChickenSpriteSheet_10
+  - first:
+      213: -2744962093844676472
+    second: BlockyChickenSpriteSheet_11
+  - first:
+      213: -7195397046241613860
+    second: BlockyChickenSpriteSheet_12
+  - first:
+      213: -3893924648648158903
+    second: BlockyChickenSpriteSheet_13
+  - first:
+      213: -6063423181635043112
+    second: BlockyChickenSpriteSheet_14
+  - first:
+      213: 3191598492155802468
+    second: BlockyChickenSpriteSheet_15
+  - first:
+      213: 2075476982395442294
+    second: BlockyChickenSpriteSheet_16
+  - first:
+      213: -6460153907492761255
+    second: BlockyChickenSpriteSheet_17
+  - first:
+      213: -3772053707881866407
+    second: BlockyChickenSpriteSheet_18
+  - first:
+      213: 44515037585168772
+    second: BlockyChickenSpriteSheet_19
+  - first:
+      213: 7546105757028742383
+    second: BlockyChickenSpriteSheet_20
+  - first:
+      213: -3844063522737545001
+    second: BlockyChickenSpriteSheet_21
+  - first:
+      213: 9130657945412154645
+    second: BlockyChickenSpriteSheet_22
+  - first:
+      213: -3812684856880266023
+    second: BlockyChickenSpriteSheet_23
+  - first:
+      213: 7310519170420228613
+    second: BlockyChickenSpriteSheet_24
+  - first:
+      213: -4543920654506861048
+    second: BlockyChickenSpriteSheet_25
+  - first:
+      213: 453734429654714214
+    second: BlockyChickenSpriteSheet_26
+  - first:
+      213: 6402765133216857134
+    second: BlockyChickenSpriteSheet_27
+  - first:
+      213: -5094470121594383796
+    second: BlockyChickenSpriteSheet_28
+  - first:
+      213: 8039543057527940405
+    second: BlockyChickenSpriteSheet_29
+  - first:
+      213: -115438564179863792
+    second: BlockyChickenSpriteSheet_30
+  - first:
+      213: -5269807226346681282
+    second: BlockyChickenSpriteSheet_31
+  - first:
+      213: -4722106581824029347
+    second: BlockyChickenSpriteSheet_32
+  - first:
+      213: 574880617181136456
+    second: BlockyChickenSpriteSheet_33
+  - first:
+      213: -4724042332005660588
+    second: BlockyChickenSpriteSheet_34
+  - first:
+      213: 751276839067374601
+    second: BlockyChickenSpriteSheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 207
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25abf25228d571b00800000000000000
+      internalID: 799210272432568914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 207
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c87dc079e5fdf1a0800000000000000
+      internalID: -6773987881526658875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 207
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2a170eecc2dd020800000000000000
+      internalID: 2368098246107177721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 207
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba16ca21dee2f8d0800000000000000
+      internalID: -2813924235019937100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 207
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d59af814002e580800000000000000
+      internalID: -8799470440345412284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 207
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7e19169c3097d10800000000000000
+      internalID: 2123732862742161326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 207
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5200cdfafbd15c500800000000000000
+      internalID: 415771249728028709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 207
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b310bada5b8cb1a0800000000000000
+      internalID: -6792400915649260615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 167
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf067c8dec3f4de0800000000000000
+      internalID: -1346790772599025735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 167
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6849cdc27cfc6f10800000000000000
+      internalID: 2264462282669508717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 167
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16821604cd371bf0800000000000000
+      internalID: -353746133600532964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c972e48fe7e9d0800000000000000
+      internalID: -2744962093844676472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 127
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7afd06280d42c90800000000000000
+      internalID: -7195397046241613860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9415037b92006f9c0800000000000000
+      internalID: -3893924648648158903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 127
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d046cfddb46adba0800000000000000
+      internalID: -6063423181635043112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4637e963be5da4c20800000000000000
+      internalID: 3191598492155802468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 127
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6741e23b1539dcc10800000000000000
+      internalID: 2075476982395442294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 127
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951da8d9f3ce856a0800000000000000
+      internalID: -6460153907492761255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 127
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b910c4329f6abc0800000000000000
+      internalID: -3772053707881866407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 127
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895d6ad0362e9000800000000000000
+      internalID: 44515037585168772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 87
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47a3d743729b860800000000000000
+      internalID: 7546105757028742383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 87
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02131c79427aac0800000000000000
+      internalID: -3844063522737545001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 87
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b3e9660d96be70800000000000000
+      internalID: 9130657945412154645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 87
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d40429b25f961bc0800000000000000
+      internalID: -3812684856880266023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502c494e37e247560800000000000000
+      internalID: 7310519170420228613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ede8c4d30c0f0c0800000000000000
+      internalID: -4543920654506861048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 47
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6670fed4f0dfb4600800000000000000
+      internalID: 453734429654714214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 47
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cb5a127f03bd850800000000000000
+      internalID: 6402765133216857134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 47
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4296838a6ecc49b0800000000000000
+      internalID: -5094470121594383796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 47
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5352964c0d1329f60800000000000000
+      internalID: 8039543057527940405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 47
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0179daccc31e56ef0800000000000000
+      internalID: -115438564179863792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cc1de8f32edd6b0800000000000000
+      internalID: -5269807226346681282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d38d62515b77eb0800000000000000
+      internalID: -4722106581824029347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846c65f10e26af700800000000000000
+      internalID: 574880617181136456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45805e03784d07eb0800000000000000
+      internalID: -4724042332005660588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockyChickenSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d6900e421d6a00800000000000000
+      internalID: 751276839067374601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlockyChickenSpriteSheet_0: 799210272432568914
+      BlockyChickenSpriteSheet_1: -6773987881526658875
+      BlockyChickenSpriteSheet_10: -353746133600532964
+      BlockyChickenSpriteSheet_11: -2744962093844676472
+      BlockyChickenSpriteSheet_12: -7195397046241613860
+      BlockyChickenSpriteSheet_13: -3893924648648158903
+      BlockyChickenSpriteSheet_14: -6063423181635043112
+      BlockyChickenSpriteSheet_15: 3191598492155802468
+      BlockyChickenSpriteSheet_16: 2075476982395442294
+      BlockyChickenSpriteSheet_17: -6460153907492761255
+      BlockyChickenSpriteSheet_18: -3772053707881866407
+      BlockyChickenSpriteSheet_19: 44515037585168772
+      BlockyChickenSpriteSheet_2: 2368098246107177721
+      BlockyChickenSpriteSheet_20: 7546105757028742383
+      BlockyChickenSpriteSheet_21: -3844063522737545001
+      BlockyChickenSpriteSheet_22: 9130657945412154645
+      BlockyChickenSpriteSheet_23: -3812684856880266023
+      BlockyChickenSpriteSheet_24: 7310519170420228613
+      BlockyChickenSpriteSheet_25: -4543920654506861048
+      BlockyChickenSpriteSheet_26: 453734429654714214
+      BlockyChickenSpriteSheet_27: 6402765133216857134
+      BlockyChickenSpriteSheet_28: -5094470121594383796
+      BlockyChickenSpriteSheet_29: 8039543057527940405
+      BlockyChickenSpriteSheet_3: -2813924235019937100
+      BlockyChickenSpriteSheet_30: -115438564179863792
+      BlockyChickenSpriteSheet_31: -5269807226346681282
+      BlockyChickenSpriteSheet_32: -4722106581824029347
+      BlockyChickenSpriteSheet_33: 574880617181136456
+      BlockyChickenSpriteSheet_34: -4724042332005660588
+      BlockyChickenSpriteSheet_35: 751276839067374601
+      BlockyChickenSpriteSheet_4: -8799470440345412284
+      BlockyChickenSpriteSheet_5: 2123732862742161326
+      BlockyChickenSpriteSheet_6: 415771249728028709
+      BlockyChickenSpriteSheet_7: -6792400915649260615
+      BlockyChickenSpriteSheet_8: -1346790772599025735
+      BlockyChickenSpriteSheet_9: 2264462282669508717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
