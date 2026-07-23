@@ -28,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
         input.Normalize();
 
         // Envoie la vitesse à l'Animator
-        animator.SetFloat("Speed", input.magnitude);
+        animator.SetFloat("vitesse", input.magnitude);
 
         // Flip du sprite selon la direction (gauche/droite)
         if (input.x != 0)
