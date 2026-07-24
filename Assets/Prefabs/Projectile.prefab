@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &8975540522408325870
+--- !u!1 &730468617308989214
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,41 +8,40 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 220826455390232224}
-  - component: {fileID: 3393269820477455483}
-  - component: {fileID: 8245957885590900904}
-  - component: {fileID: 1105833734024418881}
-  - component: {fileID: 3997011895988298307}
+  - component: {fileID: 7798466006781819342}
+  - component: {fileID: 5524508179094740343}
+  - component: {fileID: 1444162267504985256}
+  - component: {fileID: 6047972491830942943}
   m_Layer: 0
-  m_Name: gold
+  m_Name: Projectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &220826455390232224
+--- !u!4 &7798466006781819342
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8975540522408325870}
+  m_GameObject: {fileID: 730468617308989214}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.648, y: 1.619, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.485, y: -0.93343, z: 0}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &3393269820477455483
+--- !u!212 &5524508179094740343
 SpriteRenderer:
   serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8975540522408325870}
+  m_GameObject: {fileID: 730468617308989214}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -84,46 +83,24 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 4
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -1326500445, guid: 8512311d5e955934fb0811088faeee40, type: 3}
+  m_Sprite: {fileID: 4351487634642966661, guid: e303bdef57bd726459cf8949d7e36b00, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.16}
+  m_Size: {x: 0.16, y: 0.2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
---- !u!95 &8245957885590900904
-Animator:
-  serializedVersion: 7
+--- !u!68 &1444162267504985256
+EdgeCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8975540522408325870}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f058029b43f6b6f468423c30b35160f9, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
---- !u!58 &1105833734024418881
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8975540522408325870}
+  m_GameObject: {fileID: 730468617308989214}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -151,21 +128,66 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.005, y: -0.025}
-  m_Radius: 0.06
---- !u!114 &3997011895988298307
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: 0.0699931, y: 0.020669106}
+  - {x: 0.060243566, y: 0.020903105}
+  - {x: 0.06026979, y: 0.040387265}
+  - {x: 0.05024588, y: 0.040419653}
+  - {x: 0.050083756, y: 0.0603129}
+  - {x: 0.040314157, y: 0.060169652}
+  - {x: 0.039834935, y: 0.07032767}
+  - {x: 0.030137658, y: 0.070396215}
+  - {x: 0.029749036, y: 0.080091506}
+  - {x: 0.019940495, y: 0.08004323}
+  - {x: 0.019658368, y: 0.090490535}
+  - {x: -0.020171044, y: 0.090567224}
+  - {x: -0.020113824, y: 0.080238536}
+  - {x: -0.030291913, y: 0.080192834}
+  - {x: -0.030335624, y: 0.070102565}
+  - {x: -0.040423907, y: 0.06981547}
+  - {x: -0.04047159, y: 0.06016528}
+  - {x: -0.050238807, y: 0.060117}
+  - {x: -0.0501641, y: 0.04019991}
+  - {x: -0.06009344, y: 0.04015004}
+  - {x: -0.060118075, y: 0.02011692}
+  - {x: -0.07009748, y: 0.020062083}
+  - {x: -0.07010622, y: -0.050102517}
+  - {x: -0.060228545, y: -0.04995728}
+  - {x: -0.060044166, y: -0.060061656}
+  - {x: -0.050076682, y: -0.05991463}
+  - {x: -0.050071914, y: -0.070293985}
+  - {x: -0.04044298, y: -0.070503995}
+  - {x: -0.04020933, y: -0.080262266}
+  - {x: -0.020330783, y: -0.08040433}
+  - {x: -0.020192502, y: -0.0900881}
+  - {x: 0.020187657, y: -0.08987769}
+  - {x: 0.020347394, y: -0.079841055}
+  - {x: 0.040372174, y: -0.07992749}
+  - {x: 0.04040476, y: -0.07008835}
+  - {x: 0.05026416, y: -0.07013206}
+  - {x: 0.050090116, y: -0.059852645}
+  - {x: 0.060215753, y: -0.059765026}
+  - {x: 0.06027059, y: -0.05022073}
+  - {x: 0.070057675, y: -0.05000754}
+  - {x: 0.070107214, y: 0.020519096}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
+--- !u!114 &6047972491830942943
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8975540522408325870}
+  m_GameObject: {fileID: 730468617308989214}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7cfa50ca08cdb2b45b76423966ea0f6a, type: 3}
+  m_Script: {fileID: 11500000, guid: 51085bc84171f8c4d98f53308f4a01d0, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GoldPickup
-  value: 1
-  magnetSpeed: 2.5
-  magnetRange: 0.5
-  distanceRamassage: 0.15
+  m_EditorClassIdentifier: Assembly-CSharp::Projectile
+  speed: 2
+  damage: 10
+  lifeTime: 3
