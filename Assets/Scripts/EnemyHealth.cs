@@ -10,14 +10,14 @@ public class EnemyHealth : MonoBehaviour
     [Range(0f, 1f)]
     [SerializeField] private float dropChance = 0.3f; // 30% de chance
 
-    private int currentHealth;
+    private float currentHealth;
 
     private void Awake()
     {
         currentHealth = maxHealth;
     }
 
-    public void TakeDamage(int amount)
+    public void TakeDamage(float amount)
     {
         currentHealth -= amount;
         if (currentHealth <= 0) Die();
