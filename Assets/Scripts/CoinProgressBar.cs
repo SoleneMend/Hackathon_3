@@ -22,6 +22,29 @@ public class CoinProgressBar : MonoBehaviour
             progressSlider.maxValue = 1f;
             progressSlider.value = 0f;
         }
+
+        // Abonnement à l'event du GoldManager : la barre est notifiée
+        // automatiquement à chaque changement de CurrentGold
+        if (GoldManager.Instance != null)
+        {
+            GoldManager.Instance.OnGoldChanged += HandleGoldChanged;
+
+            // Applique l'état actuel au cas où du gold aurait déjà été ramassé
+            HandleGoldChanged(GoldManager.Instance.CurrentGold);
+        }
+        else
+        {
+            Debug.LogWarning("CoinProgressBar : aucun GoldManager trouvé dans la scène.");
+        }
+    }
+
+    void OnDestroy()
+    {
+        // Se désabonner pour éviter les erreurs si cet objet est détruit avant le GoldManager
+        if (GoldManager.Instance != null)
+        {
+            GoldManager.Instance.OnGoldChanged -= HandleGoldChanged;
+        }
     }
 
     void Update()
@@ -37,11 +60,10 @@ public class CoinProgressBar : MonoBehaviour
         }
     }
 
-    // Appelée à chaque fois qu'une pièce est ramassée
-    public void CollectCoin()
+    // Appelée automatiquement à chaque fois que CurrentGold change
+    private void HandleGoldChanged(int newGoldTotal)
     {
-        currentCoins++;
-        currentCoins = Mathf.Min(currentCoins, totalCoinsToCollect);
+        currentCoins = Mathf.Min(newGoldTotal, totalCoinsToCollect);
         targetFillAmount = (float)currentCoins / totalCoinsToCollect;
 
         if (currentCoins >= totalCoinsToCollect)
