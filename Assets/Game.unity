@@ -270,6 +270,7 @@ GameObject:
   - component: {fileID: 705765766}
   - component: {fileID: 705765765}
   - component: {fileID: 705765770}
+  - component: {fileID: 705765771}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -414,6 +415,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &705765771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 705765764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce9c1879085bfde4482771203c9e3fd4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
+  maxHealth: 10
+  goldPrefab: {fileID: 8975540522408325870, guid: 14865b58d7d781846b2320f88d00e6f2, type: 3}
+  dropChance: 0.3
 --- !u!4 &705765769
 Transform:
   m_ObjectHideFlags: 0
@@ -691,7 +707,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
   prefabEnnemi: {fileID: 705765764}
   intervalleSpawn: 3
-  distanceSpawn: 10
+  minX: -19
+  maxX: 18
+  minY: -18
+  maxY: 17
+  distanceMinJoueur: 5
 --- !u!4 &1381955973
 Transform:
   m_ObjectHideFlags: 0
