@@ -5,6 +5,9 @@ public class EnemySpawner : MonoBehaviour
     public GameObject prefabEnnemi;
     public float intervalleSpawn = 2f;
 
+    [Header("Limite ennemis")]
+    public int maxEnnemis = 20;
+
     [Header("Zone de spawn (rectangle sur la map)")]
     public float minX = -19f;
     public float maxX = 18f;
@@ -28,7 +31,11 @@ public class EnemySpawner : MonoBehaviour
         if (timer >= intervalleSpawn)
         {
             timer = 0f;
-            Spawn();
+
+            if (GameObject.FindGameObjectsWithTag("Enemy").Length < maxEnnemis)
+            {
+                Spawn();
+            }
         }
     }
 
